@@ -14,7 +14,7 @@ I welcome international research collaborations, interdisciplinary partnerships,
 
 ⸻
 
-Research Interests & Areas of Exploration
+## Research Interests & Areas of Exploration
 
 Artificial Intelligence & Consciousness
 
