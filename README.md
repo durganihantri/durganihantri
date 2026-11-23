@@ -72,19 +72,19 @@ My master's research explored the potential of integrating artificial consciousn
 
 ## Selected AI Research Projects
 
-Human–AI Consciousness Lab
+### [Human–AI Consciousness Lab](https://github.com/durganihantri/human-ai-consciousness-lab)
 
-Independent Open Research Initiative | Active Development
+**Independent Open Research Initiative | Active Development**
 
 An interdisciplinary research initiative investigating how conversational AI influences human perceptions of consciousness, agency, subjective experience, and psychological identity.
 
-Our first research track, Experiment 01A, examines the effects of first-person self-reference in fictional AI dialogues on human attribution judgments.
+Our first research track, **Experiment 01A**, examines the effects of first-person self-reference in fictional AI dialogues on human attribution judgments.
 
 The project currently includes an operational technical prototype, open research documentation, automated tests, and public methodological review tasks.
 
-Current stage: Research pre-release. Experimental stimuli and measures have not yet undergone independent validation. No human-participant study or empirical findings are claimed.
+**Current stage:** Research pre-release. Experimental stimuli and measures have not yet undergone independent validation. No human-participant study or empirical findings are claimed.
 
-Explore the Research Repository | View the Technical Demo
+[Explore the Research Repository](https://github.com/durganihantri/human-ai-consciousness-lab) | [View the Technical Demo](https://durganihantri.github.io/human-ai-consciousness-lab/experiments/01a-first-person/offline-prototype/)
 
 ### [AI Child Behavior Assessment](https://github.com/durganihantri/AI-Child-Behavior-Assesment)
 
