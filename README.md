@@ -72,6 +72,20 @@ My master's research explored the potential of integrating artificial consciousn
 
 ## Selected AI Research Projects
 
+Human–AI Consciousness Lab
+
+Independent Open Research Initiative | Active Development
+
+An interdisciplinary research initiative investigating how conversational AI influences human perceptions of consciousness, agency, subjective experience, and psychological identity.
+
+Our first research track, Experiment 01A, examines the effects of first-person self-reference in fictional AI dialogues on human attribution judgments.
+
+The project currently includes an operational technical prototype, open research documentation, automated tests, and public methodological review tasks.
+
+Current stage: Research pre-release. Experimental stimuli and measures have not yet undergone independent validation. No human-participant study or empirical findings are claimed.
+
+Explore the Research Repository | View the Technical Demo
+
 ### [AI Child Behavior Assessment](https://github.com/durganihantri/AI-Child-Behavior-Assesment)
 
 An exploratory multimodal AI project examining facial and speech signals in child behavior research.
